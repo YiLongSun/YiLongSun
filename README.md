@@ -1,6 +1,6 @@
 # Hi, I'm Alan ! Welcome to my Github !
 
-## 👀
+## About Me
 
 * Check Out My [Website](https://YiLongSun.github.io/)
 * Current Project :
