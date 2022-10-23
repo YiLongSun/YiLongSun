@@ -1,4 +1,4 @@
-# Hi, I'm Alan ! Welcome to my Github !
+### Hi, I'm Alan ! Welcome to my Github !
 
 ## About Me
 
