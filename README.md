@@ -2,7 +2,7 @@
 
 ## About Me
 
-* Check Out My [Website](https://YiLongSun.github.io/index.html)
+* Check Out My [Website](https://YiLongSun.github.io/)
 * Current Project :
   * [PyTorch-Practice](https://github.com/YiLongSun/PyTorch-Practice)
   * [PythonLibraries-Notes](https://github.com/YiLongSun/PythonLibraries-Notes)
