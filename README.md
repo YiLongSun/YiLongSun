@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A master's student in National Tsing Hua University</h3>
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/YiLongSun?tab=repositories)
+- 👨‍💻 Check out my personal [website](https://yilongsun.github.io/)
 
-- 📝 I regularly write articles on [here](https://yilongsun.github.io/)
+- 📝 I'm interested in Computer Vision, Data Science, Machine Learning, Deep Learning
 
-- 📄 Know about my experiences [here](https://yilongsun.github.io/)
-
-- 📫 Reach me **alan.ikliong.sun@gmail.com**
+- 📫 Feel free to reach me **alan.ikliong.sun@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
