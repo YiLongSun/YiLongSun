@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A master student in National Tsing Hua University</h3>
+<h3 align="center">A master's student in National Tsing Hua University</h3>
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/YiLongSun?tab=repositories)
 
