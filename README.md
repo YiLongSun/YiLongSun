@@ -7,17 +7,17 @@
 
 ## 🛠 Skills
 - **Languages:** C++, C#, Python 
-- **Frameworks & Tools:** OpenCV, PyTorch, Unity, WPF
-- **AI & Data:** Computer Vision, Deep Learning
+- **Frameworks / Tools:** OpenCV, PyTorch, Unity, WPF
+- **AI / Data:** Computer Vision, Deep Learning
 - **Others:** Docker, Linux
 
 ---
 
 ## 📂 Projects
-- [ImageLab]([ImageLab](https://github.com/YiLongSun/ImageLab)) – Image processing & feature analysis  
+- [ImageLab](https://github.com/YiLongSun/ImageLab) – Image processing & feature analysis  
 
 ---
 
 ## 📫 Contact
 - Email: alan.ikliong.sun@hotmail.com
-- LinkedIn: [Yi-Long Sun](www.linkedin.com/in/yi-long-sun-16ba05228)
+- LinkedIn: [Yi-Long Sun](https://www.linkedin.com/in/yi-long-sun-16ba05228)
