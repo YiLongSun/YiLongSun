@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Alan 👋
 
-<!--
-**YiLongSun/YiLongSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer @ Delta Electronics | Building AI-powered systems for industrial visual inspection  
+📍 Taiwan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** C++, C#, Python 
+- **Frameworks & Tools:** OpenCV, PyTorch, Unity, WPF
+- **AI & Data:** Computer Vision, Deep Learning
+- **Others:** Docker, Linux
+
+---
+
+## 📂 Projects
+- [ImageLab]([ImageLab](https://github.com/YiLongSun/ImageLab)) – Image processing & feature analysis  
+
+---
+
+## 📫 Contact
+- Email: alan.ikliong.sun@hotmail.com
+- LinkedIn: [Yi-Long Sun](www.linkedin.com/in/yi-long-sun-16ba05228)
