@@ -7,8 +7,8 @@
 
 ## 🛠 Skills
 - **Languages:** C++, C#, Python 
-- **Frameworks / Tools:** OpenCV, PyTorch, Unity, WPF
-- **AI / Data:** Computer Vision, Deep Learning
+- **Frameworks & Tools:** OpenCV, PyTorch, Unity, WPF
+- **AI:** Object Detection, Segmentation, Anomaly Detection, Stable Diffusion
 - **Others:** Docker, Linux
 
 ---
