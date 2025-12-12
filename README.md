@@ -1,9 +1,5 @@
 # Hi, I'm Alan 👋
 
-<p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" alt="Alan Sun Profile Picture" width="150" style="border-radius: 50%;">
-</p>
-
 💻 **Software Engineer** @ Delta Electronics  
 ✨ Building **AI-powered systems** for industrial visual inspection.  
 
