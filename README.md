@@ -32,8 +32,8 @@
 
 ## 📂 Projects
 
-### **[ImageLab](https://github.com/YiLongSun/ImageLab)**
-> 🔬 **Image processing & feature analysis** library for computer vision applications.
+### **[YoutubeVideo2Text](https://github.com/YiLongSun/YoutubeVideo2Text)**
+> 🎬 Batch transcribe YouTube **videos to text** using OpenAI Whisper.
 
 ---
 
