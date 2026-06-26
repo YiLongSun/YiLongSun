@@ -1,7 +1,7 @@
 # Hi, I'm Alan 👋
 
 💻 **Software Engineer** @ Delta Electronics  
-✨ Building **AI-powered systems** for industrial visual inspection.  
+✨ Building **production-ready AI solutions** that integrate optical system design, machine learning, and MLOps into real-world AOI equipment.
 
 ---
 
